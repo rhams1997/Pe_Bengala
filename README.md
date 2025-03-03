@@ -1,4 +1,4 @@
-# README - Protótipo 3D: Pé para Bengala
+# - Protótipo 3D: Pé para Bengala
 
 ## Descrição
 Este projeto consiste no design de um pé para bengala desenvolvido em OpenSCAD. O objetivo principal é proporcionar uma base segura para a bengala, impedindo que a mesma arranhe o piso e oferecendo maior aderência para evitar escorregamentos.
